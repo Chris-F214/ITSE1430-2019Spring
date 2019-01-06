@@ -9,3 +9,7 @@ Work done while in class will be stored in this folder.
 ## Labs
 
 Lab assignments will be placed in here.
+
+## Template
+
+Contains a template for setting up your own repository for this class.
