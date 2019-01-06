@@ -1,6 +1,6 @@
 # ITSE 1430 - Spring 2018
 
-This repository contains the class material for this semester. Refer to [ITSE1430-Shared](https://github.com/michaeltccd/ITSE1430-shared) for general information on the course.
+This repository contains the class material for this semester. Refer to [ITSE1430](https://github.com/michaeltccd/ITSE1430) for general information on the course.
 
 ## ClassWork
 
