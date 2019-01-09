@@ -142,8 +142,8 @@ Office Location: TBD
 | 9 | 3/11 | Spring Break
 | 10 | 3/18 | Section 3 (Interfaces and Collections) | |
 | | | Interfaces and Initializers | 12 | Lab 2 |
-| | | Lists, Collections and Generic Types | 9, 20	| Quiz 1 | 
-| 11 | 3/25 | Abstract and Static Classes | 7 | |
+| | | Lists, Collections and Generic Types | 9, 20	| | 
+| 11 | 3/25 | Abstract and Static Classes | 7 | Quiz 1 |
 | | | Extensions | | |
 | 12 | 4/1 | Section 4 0 (Files and Databases) | | 
 | | | Anonymous Types and Lambdas | 21 | Lab 3 |
@@ -152,8 +152,8 @@ Office Location: TBD
 | | | Reading Data | |
 | 14 | 4/15 | Section 5 (MVC) | |
 | | | Attributes and Web Basics | | Lab 4 |
-| | | MVC and NuGet | | Quiz 2 |
-| 15 | 4/22 | Controllers and Actions | |
+| | | MVC and NuGet | | |
+| 15 | 4/22 | Controllers and Actions | | Quiz 2 |
 | | | Routing and Models | |
 | 16 | 4/29 | Views and View Helpers | |
 | | | ? | |
