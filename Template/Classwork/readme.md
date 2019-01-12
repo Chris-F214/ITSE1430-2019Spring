@@ -1,3 +1,8 @@
 # Classwork Folder
 
-Create a subfolder for each section we cover in class (i.e. Section1, Section2). This will allow you to go back to previous sections even if we remove code in later discussions.
+This folder is where your work done in class should go.
+
+## Instructions
+
+1. Each time you open Visual Studio `pull` changes from GitHub. 
+2. Each time you prepare to close Visual Studio `commit` and then `push` changes back to GitHub.
