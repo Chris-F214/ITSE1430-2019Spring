@@ -112,9 +112,9 @@ This course has a zero-tolerance policy on cheating. Any student(s) thought to b
 
 ### Instructor Information
 
-Name: Michael Taylor
-Email: Michael.taylor769@my.tccd.edu
-Office Hours: Mon 7:00 – 7:30
+Name: Michael Taylor\
+Email: Michael.taylor769@my.tccd.edu\
+Office Hours: Mon 7:00 – 7:30\
 Office Location: TBD
 
 ### Schedule (tentative)
