@@ -121,15 +121,13 @@ Office Location: TBD
 
 | Week | Date | Topic | Chapters | Due |
 | - | - | - | - | - |
-| 1 | 1/14 | Section 1 (C# Basics) | | |
-| | | Introduction and Visual Studio | 2 | |
+| 1 | 1/14 | Introduction, Visual Studio and GitHub | 2 | |
 | | | C# Basics, Variables and Data Types | 3 | |
 | 2 | 1/21 | MLK (holiday) | | |
 | | | Strings and Console	| 3, 16 | Pre-quiz |
 | 3 | 1/28 | Control Flow Statements | 5, 6 | |
 | | | Arrays and Expressions | 5. 8 | |
-| 4 | 2/4 |	Section 2 (OOP and Winforms) | | |
-| | | Objects and Type Checking | 4, 5	| Lab 1 |
+| 4 | 2/4 |	Objects and Type Checking | 4, 5	| Lab 1 |
 | | | Namespaces and Classes | 10 | |
 | 5 | 2/11 | Fields and Properties | 10	| |
 | | | Methods | 7 | |
@@ -138,22 +136,19 @@ Office Location: TBD
 | 7 | 2/25 | Inheritance and Constructors | 11 | |
 | | | Events and Form Lifetime | 15 | |
 | 8 | 3/4 | Exceptions and Error Handling | |
-| | | Layouts and Validation | 15 | |
+| | | Layouts and Validation | 15 | Quiz 1 |
 | 9 | 3/11 | Spring Break
-| 10 | 3/18 | Section 3 (Interfaces and Collections) | |
-| | | Interfaces and Initializers | 12 | Lab 2 |
+| 10 | 3/18 | Interfaces and Initializers | 12 | Lab 2 |
 | | | Lists, Collections and Generic Types | 9, 20	| | 
-| 11 | 3/25 | Abstract and Static Classes | 7 | Quiz 1 |
+| 11 | 3/25 | Abstract and Static Classes | 7 | |
 | | | Extensions | | |
-| 12 | 4/1 | Section 4 0 (Files and Databases) | | 
-| | | Anonymous Types and Lambdas | 21 | Lab 3 |
-| | | Files and IDisposable | 17 | |
-| 13 | 4/8 | ADO.NET Connections and Commands | 22 |
+| 12 | 4/1 | Anonymous Types and Lambdas | 21 | Lab 3 |
+| | | Files and IDisposable | 17 | Quiz 2 |
+| 13 | 4/8 | ADO.NET Connections and Commands | 22 | |
 | | | Reading Data | |
-| 14 | 4/15 | Section 5 (MVC) | |
-| | | Attributes and Web Basics | | Lab 4 |
+| 14 | 4/15 | Attributes and Web Basics | | Lab 4 |
 | | | MVC and NuGet | | |
-| 15 | 4/22 | Controllers and Actions | | Quiz 2 |
+| 15 | 4/22 | Controllers and Actions | | |
 | | | Routing and Models | |
 | 16 | 4/29 | Views and View Helpers | |
 | | | ? | |
