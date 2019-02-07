@@ -25,6 +25,29 @@ namespace GameManager.Host.Winforms
 
             game.Name = "DOOM";
             game.Price = 59.99M;
+
+            //Validate(game)
+            game.Validate();
+
+            //var x = 10;
+            //x.ToString();
+
+            //var str = game.Publisher;            
+            //Decimal.TryParse("45.99", out game.Price);
+            
+        }
+
+        private void OnFileExit ( object sender, EventArgs e )
+        {
+            //Local variable
+            var x = 10;
+
+            Close();
+        }
+
+        private void OnHelpAbout ( object sender, EventArgs e )
+        {
+            MessageBox.Show("Help");
         }
     }
 }
