@@ -6,7 +6,7 @@ namespace GameManager.Host.Winforms
     /// <summary>Allows adding or editing a game.</summary>
     public partial class GameForm : Form
     {
-        public GameForm()
+        public GameForm() //: base()
         {
             InitializeComponent();
         }
@@ -58,11 +58,22 @@ namespace GameManager.Host.Winforms
             game.Owned = _cbOwned.Checked;
             game.Completed = _cbCompleted.Checked;
 
+            //Demoing ctor
+            var game2 = new Game(_txtName.Text, ReadDecimal(_txtPrice));
+
             return game;
         }
 
-        private void GameForm_Load( object sender, EventArgs e )
+        //Defined in type
+        //Derived types may override and change it
+        protected virtual void CanBeChanged() { }
+
+        //Overriding a virtual member in Form
+        protected override void OnLoad( EventArgs e )
         {
+            //this.OnLoad(e);
+            base.OnLoad(e);
+
             //Init UI if editing a game
             if (Game != null)
                 LoadData(Game);
