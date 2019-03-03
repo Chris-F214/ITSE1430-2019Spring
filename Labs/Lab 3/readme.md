@@ -8,7 +8,9 @@ In this lab you will create a Windows Forms application to manage contacts for s
 
 ## Skills Needed
 
-- C# - Abstract Classes
+- C# 
+  - Abstract Classes
+  - Error Handling
   - Extension Methods
   - Generic Types
   - Interfaces
@@ -137,6 +139,7 @@ In the main form add a new menu to support working with contacts. Add an option 
 1. ENSURE cancellation buttons do not trigger any validation and do not modify existing data.
 1. ENSURE affirmative buttons handle validation before performing their action.
 1. ENSURE that form buttons set `DialogResult` to an appropriate value before closing the form.
+1. ENSURE that any errors trying to add a contact are handled and reported to the user.
 
 ### Acceptance Criteria
 
@@ -146,6 +149,7 @@ In the main form add a new menu to support working with contacts. Add an option 
 1. Form can be cancelled without validation.
 1. Attempting to save with data missing reports the correct errors.
 1. Clicking save with valid data works.
+1. Errors during saving are reported to the user.
 
 ## Story 4 - Display the Contacts in the Main Window
 
@@ -227,6 +231,7 @@ Update the contact list to allow double clicking a contact. If a contact is doub
 1. Double clicking a contact in the contact list edits the contact.
 1. Trying to edit a contact when none is selected does nothing.
 1. Editing a contact updates the contact list appropriately.
+1. Errors modifying a contact are reported to the user.
 
 ## Story 8 - Add Support for Removing Contacts
 
