@@ -5,6 +5,9 @@ namespace GameManager
     /// <summary>Represents a game.</summary>
     public class Game
     {
+        /// <summary>Gets or sets the unique ID of the game.</summary>
+        public int Id { get; set; }
+
         /// <summary>Gets or sets the name of the game.</summary>
         public string Name
         {
